@@ -1,2 +1,3 @@
-# mpimatrixmultiplication
-Matrix multiplication using MPI
+# Matrix Multiplication USing MPI
+
+
