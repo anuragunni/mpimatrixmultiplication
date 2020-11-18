@@ -1,3 +1,3 @@
-# Matrix Multiplication USing MPI
+# Matrix Multiplication Using MPI
 
 
